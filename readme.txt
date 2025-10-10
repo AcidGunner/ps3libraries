@@ -1,3 +1,6 @@
+[!NOTE]
+> Change the 009-ps3libraries.sh from bucanero to AcidGunner.  
+> Idk why, but they don't want to fix the download links.
 
  ====================
   What does this do?
